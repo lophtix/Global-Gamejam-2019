@@ -1,7 +1,6 @@
 # Games, experiments and failures during Global Game Jam 2019
 
-A handful of Lophtix members joined the Global Game Jam site in Linköping, run by http://liugamejam.se/ 
-(in turn run by http://lithekod.se/). The least catastrophic gamedevelopment attempt was "Super Smash Kvirkels"
+A handful of Lophtix members joined the Global Game Jam site in Linköping, run by [LiU Game Jam](http://liugamejam.se/). The least catastrophic gamed evelopment attempt was "Super Smash Kvirkels"
 
 ## Super Smash Kvirkels (Pre Alpha 0.0.2)
 
