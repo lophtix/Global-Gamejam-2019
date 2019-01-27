@@ -12,14 +12,17 @@ Platformer game made using Construct 3 and PS3 Buzz controllers
 * Music: Caslav Davidovic
 * Driver : Erik Sundvall
 
+Screenshot of Super Smash Kvirkels:
+![Screenshot](/kvirkels.png)
+
 ## Something better than RISK...
-...was an attenpt at making a Risk-styl strategy board game that was better and less random than Risk, but during testing it turned out to be worse than Risk and the developers redirected their attention to other things...
+...was an attenpt at making a Risk-style strategy board game that was better and less random than Risk, but during testing it turned out to be worse than Risk and the developers redirected their attention to other things...
 
-## Buildule housing tycoon
+## Buildule housing tycoon...
+Boardgame prototype that started complicated and got somewhat simpler but not finsihed. 
 
-
-## The unity files 
-
+## The unity files in the subdirectories...
+...don't bother understanding those.
 
 
 -------------
