@@ -3,7 +3,7 @@
 A handful of Lophtix members joined the Global Game Jam site in Linköping, run by http://liugamejam.se/ 
 (in turn run by http://lithekod.se/). The least catastrophic gamedevelopment attempt was "Super Smash Kvirkels"
 
-## Super Smash Kvirkels
+## Super Smash Kvirkels (Pre Alpha 0.0.2)
 
 Platformer game made using Construct 3 and PS3 Buzz controllers 
 
@@ -11,6 +11,8 @@ Platformer game made using Construct 3 and PS3 Buzz controllers
 * Art: Benjamin Sundvall
 * Music: Caslav Davidovic
 * Driver : Erik Sundvall
+
+You are a Kvirkel (Swedish for square with rounded corners). You can jump, hit, go left and right. Aim of the game: Push the opponents of the screen.
 
 Screenshot of Super Smash Kvirkels:
 ![Screenshot](/kvirkels.png)
@@ -22,9 +24,9 @@ Screenshot of Super Smash Kvirkels:
 Boardgame prototype that started complicated and got somewhat simpler but not finsihed. 
 
 ## The unity files in the subdirectories...
-...don't bother understanding those.
+...don't bother trying to understand those.
 
 
 -------------
 
-The beautified HTML page is at: https://lophtix.github.io/Global-Gamejam-2019/
+The beautified HTML page of this text is at: https://lophtix.github.io/Global-Gamejam-2019/
