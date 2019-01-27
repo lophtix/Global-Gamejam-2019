@@ -4,7 +4,7 @@ A handful of Lophtix members joined the Global Game Jam site in Linköping, run 
 
 ## Super Smash Kvirkels (Pre Alpha 0.0.2)
 
-Platformer game made using Construct 3 and PS3 Buzz controllers 
+Platformer game made using Construct 3 and PS3 Buzz controllers. Coming to [https://lophtix.github.io/Global-Gamejam-2019/kvirkel/](https://lophtix.github.io/Global-Gamejam-2019/kvirkel/)
 
 * Programming & Game design: Jonathan Sundvall
 * Art: Benjamin Sundvall
